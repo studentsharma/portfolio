@@ -39,8 +39,8 @@ export default function HomeSection() {
 
 
         <p className="text-sm sm:text-base text-gray-300 leading-relaxed max-w-lg sm:max-w-xl md:max-w-2xl lg:max-w-3xl xl:max-w-3xl mx-auto lg:mx-0">
-          I'm a passionate MERN stack developer with a strong foundation in building modern, responsive web applications.
-          I enjoy solving complex problems through Data Structures & Algorithms, blending logic with creativity.
+          I&apos;m a passionate MERN stack developer with a strong foundation in building modern, responsive web applications.
+          I enjoy solving complex problems through Data Structures &amp; Algorithms, blending logic with creativity.
           My expertise spans frontend and backend development, ensuring seamless and efficient solutions.
           I thrive on learning new technologies and applying them to real-world projects.
           With a balance of web development skills and DSA problem-solving abilities, I aim to craft impactful digital experiences.
