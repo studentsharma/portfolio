@@ -19,7 +19,7 @@ export default function HomeSection() {
       {/* Content Section */}
       <div className="w-full lg:w-1/2 max-w-lg lg:max-w-none">
         <h1 className="text-2xl sm:text-3xl lg:text-4xl text-white font-bold mb-4">
-          Hi, I'm{" "}&nbsp;
+          Hi, I&apos;m{" "}&nbsp;
           <span className="inline-block text-3xl sm:text-4xl lg:text-5xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
             <Typewriter
               options={{
